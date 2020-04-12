@@ -1,0 +1,16 @@
+# name: mu
+# type: matrix
+# rows: 3
+# columns: 2
+ -1.09284 -0.880687
+ -0.441826 0.619397
+ 3.01038 1.09583
+
+
+# name: sigma
+# type: matrix
+# rows: 3
+# columns: 1
+0.918124
+0.896892
+0.785611

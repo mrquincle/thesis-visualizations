@@ -1,0 +1,3 @@
+Purity: 0.865
+Rand Index: 0.858794
+Adjusted Rand Index: 0.717425
